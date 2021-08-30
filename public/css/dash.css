@@ -1,0 +1,19 @@
+.custab {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 0px;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+
+.custab:hover {
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.btr {
+    margin-top: 20px;
+    margin-left: 900px;
+    margin-bottom: 0px;
+}
